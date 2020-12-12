@@ -1,0 +1,19 @@
+* {
+font-family: Palatino;
+background-color: #F5F5F5;
+color: #313638;
+}
+
+body {
+margin: 20px 200px;
+text-align: center;
+}
+
+.caption {
+	font-style: italic;
+}
+
+img {
+	width: 616px;
+	height: 372px;
+}
